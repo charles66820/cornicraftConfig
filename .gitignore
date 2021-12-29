@@ -1,0 +1,11 @@
+/cache
+/libraries
+/logs
+/versions
+/world*
+/banned*
+/ops.json
+/run.sh
+/usercache.json
+/version_history.json
+/help.yml
