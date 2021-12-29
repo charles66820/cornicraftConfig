@@ -2,7 +2,8 @@
 /libraries
 /logs
 /versions
-/world*
+/world_*/
+/world/*
 /banned*
 /ops.json
 /run.sh
@@ -10,7 +11,8 @@
 /version_history.json
 /help.yml
 /debug
-
+/world/datapacks/bukkit/
+!/world/datapacks/
 /plugins/floodgate/key.pem
 /plugins/Geyser-Spigot/locales/
 /plugins/Essentials/userdata/
