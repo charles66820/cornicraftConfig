@@ -9,6 +9,7 @@
 /usercache.json
 /version_history.json
 /help.yml
+/debug
 
 /plugins/floodgate/key.pem
 /plugins/Geyser-Spigot/locales/

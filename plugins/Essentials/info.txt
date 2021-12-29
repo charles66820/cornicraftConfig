@@ -1,0 +1,19 @@
+&6Player's Display name:&r {PLAYER}, {DISPLAYNAME}
+&6Player's primary group:&r {GROUP}
+&6Player's playtime:&r {PLAYTIME}
+&6TPS:&r {TPS}
+&6Uptime:&r {UPTIME}
+&6Plugin list:&r {PLUGINS}
+
+Type /info Colors
+
+#Colors
+Minecraft colors:
+&0 &&0  &1 &&1  &2 &&2  &3 &&3
+&4 &&4  &5 &&5  &6 &&6  &7 &&7
+&8 &&8  &9 &&9  &a &&a  &b &&b
+&c &&c  &d &&d  &e &&e  &f &&f
+&0 
+&&k &kMagic&r   &&l &lBold
+&&m &mStrike&r  &&n &nUline
+&&o &oItalic&r   &&r &rReset
