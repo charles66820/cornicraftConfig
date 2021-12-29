@@ -12,3 +12,9 @@
 
 /plugins/floodgate/key.pem
 /plugins/Geyser-Spigot/locales/
+/plugins/Essentials/userdata/
+/plugins/Essentials/userdata-npc-backup/
+/plugins/Essentials/warps/
+/plugins/Essentials/tpr.yml
+/plugins/Essentials/items.json
+/plugins/Essentials/usermap.csv
