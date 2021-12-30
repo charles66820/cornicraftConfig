@@ -11,6 +11,8 @@
 /version_history.json
 /help.yml
 /debug
+/crash-reports
+/.console_history
 /world/datapacks/bukkit/
 !/world/datapacks/
 /plugins/floodgate/key.pem
@@ -21,3 +23,4 @@
 /plugins/Essentials/tpr.yml
 /plugins/Essentials/items.json
 /plugins/Essentials/usermap.csv
+/plugins/GroupManager/backup/
