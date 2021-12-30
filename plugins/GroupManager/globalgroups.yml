@@ -1,0 +1,90 @@
+# These groups only contain permission nodes.
+
+groups:
+
+# Permission nodes for GroupManager
+
+  g:groupmanager_default:
+    permissions:
+    - groupmanager.notify.self
+
+  g:groupmanager_admin:
+    permissions:
+    - groupmanager.listgroups
+    - groupmanager.mandemote
+    - groupmanager.manpromote
+    - groupmanager.manselect
+    - groupmanager.manwhois
+    - groupmanager.notify.other
+    - groupmanager.manucheckp
+    - groupmanager.manulistp
+
+# Permission nodes for minecraft and CraftBukkit
+
+  g:minecraft_default:
+    permissions:
+    - bukkit.broadcast.user
+    - -bukkit.command.plugins
+
+  g:minecraft_admin:
+    permissions:
+    - minecraft.command.ban
+    - minecraft.command.ban-ip
+    - minecraft.command.kick
+    - minecraft.command.list
+    - minecraft.command.pardon
+    - minecraft.command.pardon-ip
+    - minecraft.command.say
+    - minecraft.command.attribute
+    - minecraft.command.advancement
+    - minecraft.command.data
+    - minecraft.command.difficulty
+    - minecraft.command.gamerule
+    - minecraft.command.locatebiome
+    - minecraft.command.me
+    - -minecraft.command.op
+    - minecraft.command.particle
+    - minecraft.command.playsound
+    - minecraft.command.recipe
+    - minecraft.command.setworldspawn
+    - minecraft.command.scoreboard
+    - minecraft.command.spreadplayers
+    - minecraft.command.stop
+    - minecraft.command.whitelist
+    - minecraft.command.worldborder
+    - bukkit.command.help
+    - bukkit.command.reload
+    - minecraft.command.save-all
+    - minecraft.command.save-on
+    - minecraft.command.save-off
+    - minecraft.command.tell
+
+# Permission nodes for EssentialsX
+
+  g:essentials_default:
+    permissions:
+    - essentials.help
+    - essentials.info
+    - essentials.motd
+    - essentials.rules
+    - essentials.spawn
+    - essentials.afk
+    - essentials.chat.color
+    - essentials.chat.format
+    - essentials.chat.shout
+    - essentials.chat.question
+    - essentials.compass
+    - essentials.delhome
+    - essentials.home
+    - essentials.me
+    - essentials.msg
+    - essentials.msg.color
+    - essentials.msg.format
+    - essentials.ping
+    - essentials.sethome
+    - essentials.sethome.bed
+    - essentials.sethome.multiple
+    - essentials.signs.use.*
+    - essentials.tpa
+    - essentials.tpaccept
+    - essentials.tpdeny

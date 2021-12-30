@@ -1,0 +1,15 @@
+users:
+  Aconel:
+    group: Comrade
+    subgroups: []
+    permissions: []
+  b56b87f0-47a2-4506-9654-03f9f9d29714:
+    lastname: cornichon66820
+    group: Admin
+    subgroups:
+    - Comrade
+    permissions: []
+  oignonDuBocal:
+    group: Princess
+    subgroups: []
+    permissions: []
