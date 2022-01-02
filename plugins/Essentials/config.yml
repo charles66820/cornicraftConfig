@@ -844,7 +844,7 @@ chat:
   #format: '&7[{GROUP}]&r {DISPLAYNAME}&7:&r {MESSAGE}'
   #format: '&7{PREFIX}&r {DISPLAYNAME}&r &7{SUFFIX}&r: {MESSAGE}'
   # format: '&7<&r{PREFIX}{GROUP} {DISPLAYNAME}{SUFFIX}&7>&r {MESSAGE}'
-  format: '&7<&r{PREFIX}{DISPLAYNAME}{SUFFIX}&7>&r {MESSAGE}'
+  # format: '&7<&r{PREFIX}{DISPLAYNAME}{SUFFIX}&7>&r {MESSAGE}'
 
   group-formats:
     # default: '&7<&r{PREFIX}{GROUP} {DISPLAYNAME}{SUFFIX}&7>&r {MESSAGE}'
