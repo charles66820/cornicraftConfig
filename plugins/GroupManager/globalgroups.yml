@@ -10,14 +10,9 @@ groups:
 
   g:groupmanager_admin:
     permissions:
-    - groupmanager.listgroups
     - groupmanager.mandemote
     - groupmanager.manpromote
-    - groupmanager.manselect
     - groupmanager.manwhois
-    - groupmanager.notify.other
-    - groupmanager.manucheckp
-    - groupmanager.manulistp
 
 # Permission nodes for minecraft and CraftBukkit
 
@@ -73,7 +68,6 @@ groups:
     - essentials.chat.format
     - essentials.chat.shout
     - essentials.chat.question
-    - essentials.compass
     - essentials.delhome
     - essentials.home
     - essentials.me
@@ -82,9 +76,8 @@ groups:
     - essentials.msg.format
     - essentials.ping
     - essentials.sethome
-    - essentials.sethome.bed
-    - essentials.sethome.multiple
     - essentials.signs.use.*
     - essentials.tpa
     - essentials.tpaccept
     - essentials.tpdeny
+    - essentials.tpacancel
