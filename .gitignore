@@ -26,3 +26,5 @@
 /plugins/GroupManager/backup/
 
 /manage.sh
+/console.in
+/cornicraft.pid
