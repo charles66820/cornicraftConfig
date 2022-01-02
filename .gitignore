@@ -24,3 +24,5 @@
 /plugins/Essentials/items.json
 /plugins/Essentials/usermap.csv
 /plugins/GroupManager/backup/
+
+/manage.sh
