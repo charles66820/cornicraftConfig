@@ -54,7 +54,7 @@ change-tab-complete-name: false
 
 # When this option is enabled, the (tab) player list will be updated with the displayname.
 # The value of change-displayname (above) has to be true.
-#change-playerlist: true
+change-playerlist: true
 
 # When EssentialsChat.jar isn't used, force essentials to add the prefix and suffix from permission plugins to displayname.
 # This setting is ignored if EssentialsChat.jar is used, and defaults to 'true'.
@@ -843,14 +843,11 @@ chat:
   # format: '<{DISPLAYNAME}> {MESSAGE}'
   #format: '&7[{GROUP}]&r {DISPLAYNAME}&7:&r {MESSAGE}'
   #format: '&7{PREFIX}&r {DISPLAYNAME}&r &7{SUFFIX}&r: {MESSAGE}'
-  # format: '&7<&r{PREFIX}{GROUP} {DISPLAYNAME}{SUFFIX}&7>&r {MESSAGE}'
-  # format: '&7<&r{PREFIX}{DISPLAYNAME}{SUFFIX}&7>&r {MESSAGE}'
+
+  format: '&7<&r{DISPLAYNAME}&7>&r {MESSAGE}'
 
   group-formats:
-    default: '&7<&r{PREFIX}{DISPLAYNAME}{SUFFIX}&7>&r {MESSAGE}'
-    Comrade: '&7<&r{PREFIX}{GROUP} {DISPLAYNAME}{SUFFIX}&7>&r {MESSAGE}'
-    Princess: '&7<&r{PREFIX}{GROUP} {DISPLAYNAME}{SUFFIX}&7>&r {MESSAGE}'
-    Admin: '&7<&r{PREFIX}{GROUP} {DISPLAYNAME}{SUFFIX}&7>&r {MESSAGE}'
+    # default: '&7<&r{PREFIX}{GROUP} {DISPLAYNAME}{SUFFIX}&7>&r {MESSAGE}'
 
   # If you are using group formats make sure to remove the '#' to allow the setting to be read.
   # Note: Group names are case-sensitive so you must match them up with your permission plugin.

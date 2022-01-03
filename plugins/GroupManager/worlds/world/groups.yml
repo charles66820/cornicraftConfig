@@ -26,7 +26,7 @@ groups:
     inheritance:
     - default
     info:
-      prefix: '&c'
+      prefix: '&ePrincess '
       build: true
       suffix: '♛'
   Comrade:
@@ -35,7 +35,7 @@ groups:
     inheritance:
     - default
     info:
-      prefix: '&4'
+      prefix: '&4Comrade '
       build: true
       suffix: '☭'
   Admin:
@@ -46,7 +46,7 @@ groups:
     - g:minecraft_admin
     - g:groupmanager_admin
     info:
-      prefix: '&4'
+      prefix: '&4Dictator '
       build: true
       suffix: ''
   Owner:
