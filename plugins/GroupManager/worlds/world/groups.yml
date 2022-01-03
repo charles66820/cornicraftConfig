@@ -17,7 +17,7 @@ groups:
     - g:minecraft_default
     - g:essentials_default
     info:
-      prefix: '&e'
+      prefix: ''
       build: true
       suffix: ''
   Princess:
