@@ -20,6 +20,24 @@ groups:
       prefix: ''
       build: true
       suffix: ''
+  RelaisChateau:
+    default: false
+    permissions: []
+    inheritance:
+    - default
+    info:
+      prefix: '&3Relais Château '
+      build: true
+      suffix: ''
+  DoomSlayer:
+    default: false
+    permissions: []
+    inheritance:
+    - default
+    info:
+      prefix: '&2Doom Slayer '
+      build: true
+      suffix: ''
   Princess:
     default: false
     permissions: []

@@ -1,5 +1,5 @@
 users:
-  Aconel:
+  e4efaed3-aa36-4daf-b054-99a4076673d5:
     group: Comrade
     subgroups: []
     permissions: []
@@ -9,7 +9,31 @@ users:
     subgroups:
     - Comrade
     permissions: []
-  oignonDuBocal:
+  2c881e18-6b2c-40fe-bcdf-5278fa187662:
+    lastname: oignonDuBocal
     group: Princess
+    subgroups: []
+    permissions: []
+  Xekinor:
+    group: Princess
+    subgroups: []
+    permissions: []
+  Sakuleska:
+    group: Princess
+    subgroups: []
+    permissions: []
+  2c6e206d-f054-43ef-b870-3ae7294ae8e0:
+    lastname: Asmotech
+    group: DoomSlayer
+    subgroups: []
+    permissions: []
+  5204f8e4-9853-4095-bb56-9a21916e00dd:
+    lastname: AlphSam
+    group: Comrade
+    subgroups: []
+    permissions: []
+  5567a654-d9b9-4d44-97f6-99214318b1df:
+    lastname: To0a
+    group: Comrade
     subgroups: []
     permissions: []
