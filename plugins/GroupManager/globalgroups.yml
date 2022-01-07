@@ -20,20 +20,23 @@ groups:
     permissions:
     - bukkit.broadcast.user
     - -bukkit.command.plugins
+    - minecraft.command.list
+    - minecraft.command.seed
+    - minecraft.command.tell
+    - minecraft.command.me
+    - bukkit.command.help
 
   g:minecraft_admin:
     permissions:
     - minecraft.command.ban
     - minecraft.command.ban-ip
     - minecraft.command.kick
-    - minecraft.command.list
     - minecraft.command.pardon
     - minecraft.command.pardon-ip
     - minecraft.command.say
     - minecraft.command.attribute
     - minecraft.command.advancement
     - minecraft.command.gamerule
-    - minecraft.command.me
     - -minecraft.command.op
     - minecraft.command.particle
     - minecraft.command.playsound
@@ -44,12 +47,10 @@ groups:
     - minecraft.command.stop
     - minecraft.command.whitelist
     - minecraft.command.worldborder
-    - bukkit.command.help
     - bukkit.command.reload
     - minecraft.command.save-all
     - minecraft.command.save-on
     - minecraft.command.save-off
-    - minecraft.command.tell
 
 # Permission nodes for EssentialsX
 
