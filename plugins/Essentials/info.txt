@@ -1,4 +1,3 @@
-&6Player's Display name:&r {PLAYER}, {DISPLAYNAME}
 &6Player's user name:&r {USERNAME}
 &6Player's prefix:&r {PREFIX}
 &6Player's suffix:&r {SUFFIX}

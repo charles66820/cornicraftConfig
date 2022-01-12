@@ -47,6 +47,15 @@ groups:
       prefix: '&2Roi oubliée '
       build: true
       suffix: ''
+  Bitacu:
+    default: false
+    permissions: []
+    inheritance:
+    - default
+    info:
+      prefix: '&dBitacu '
+      build: true
+      suffix: ' 8===D'
   Princess:
     default: false
     permissions: []
