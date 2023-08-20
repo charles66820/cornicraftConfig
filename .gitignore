@@ -17,12 +17,15 @@
 !/world/datapacks/
 /plugins/floodgate/key.pem
 /plugins/Geyser-Spigot/locales/
+/plugins/Geyser-Spigot/cache/
 /plugins/Essentials/userdata/
 /plugins/Essentials/userdata-npc-backup/
 /plugins/Essentials/warps/
 /plugins/Essentials/tpr.yml
 /plugins/Essentials/items.json
 /plugins/Essentials/usermap.csv
+/plugins/Essentials/usermap.bin
+/plugins/Essentials/uuids.bin
 /plugins/GroupManager/backup/
 
 /manage.sh
