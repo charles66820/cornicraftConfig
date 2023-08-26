@@ -1,0 +1,13 @@
+{
+  "format_version": 1,
+  "items": {
+    "minecraft:flint_and_steel": [
+      {
+        "name": "erebus_portal",
+        "custom_model_data": 1,
+
+        "display_name": "Erebus portal"
+      }
+    ]
+  }
+}
