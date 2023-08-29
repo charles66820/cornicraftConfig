@@ -3,9 +3,11 @@
   "items": {
     "minecraft:knowledge_book": [
       {
-        "name": "rainbow_wool",
         "custom_model_data": 1,
-        "display_name": "Rainbow wool"
+
+        "name": "rainbow_wool",
+        "display_name": "Rainbow wool",
+        "allow_offhand": true
       }
     ]
   }
