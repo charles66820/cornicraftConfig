@@ -5,7 +5,7 @@
       {
         "custom_model_data": 1,
 
-        "name": "magicorp:rainbow_wool",
+        "name": "rainbow_wool",
         "display_name": "Rainbow wool",
         "allow_offhand": true
       }
@@ -13,7 +13,7 @@
     "minecraft:flint_and_steel": [
       {
         "custom_model_data": 1,
-        "name": "magicorp:erebus_portal",
+        "name": "erebus_portal",
         "display_name": "Erebus portal",
         "allow_offhand": true,
         "render_offsets": {
