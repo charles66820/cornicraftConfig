@@ -5,9 +5,91 @@
       {
         "custom_model_data": 1,
 
-        "name": "rainbow_wool",
+        "name": "magicorp:rainbow_wool",
         "display_name": "Rainbow wool",
         "allow_offhand": true
+      }
+    ],
+    "minecraft:flint_and_steel": [
+      {
+        "custom_model_data": 1,
+        "name": "magicorp:erebus_portal",
+        "display_name": "Erebus portal",
+        "allow_offhand": true,
+        "render_offsets": {
+          "main_hand": {
+            "first_person": {
+              "position": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+              },
+              "rotation": {
+                "x": 0,
+                "y": 60,
+                "z": 0
+              },
+              "scale": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+              }
+            },
+            "third_person": {
+              "position": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+              },
+              "rotation": {
+                "x": 0,
+                "y": 90,
+                "z": 0
+              },
+              "scale": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+              }
+            }
+          },
+          "off_hand": {
+            "first_person": {
+              "position": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+              },
+              "rotation": {
+                "x": 0,
+                "y": 60,
+                "z": 0
+              },
+              "scale": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+              }
+            },
+            "third_person": {
+              "position": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+              },
+              "rotation": {
+                "x": 0,
+                "y": 90,
+                "z": 0
+              },
+              "scale": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+              }
+            }
+          }
+        }
       }
     ]
   }
